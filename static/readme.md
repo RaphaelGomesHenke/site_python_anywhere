@@ -1,0 +1,1 @@
+Antes de fazer o deploy do projeto para o servidor, este diretório será usado pelo django para carregar os arquivos estáticos.
