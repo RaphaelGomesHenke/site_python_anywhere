@@ -1,0 +1,1 @@
+Use este diretório para seus arquivos estáticos durante o desenvolvimento.
